@@ -1,7 +1,7 @@
 # PONG-Wars
 classical arcade pong with a twist
 
-##Brief History
+## Brief History
 The game was written by me in visual studio 2010 originally and today I thought let's share it with everyone. It was my first step 
 into game programming in both concept and practice while taking first steps intp computer programming.
 
@@ -11,7 +11,7 @@ If you would like to add to it, clone it, correct it, optimise it. You are more 
 
 I have written brief comments for the game-code, so that reading it becomes easier.
 
-##How to Play
+## How to Play
 
 After you have downloaded the repo and set it up;
 - open the Solution file (.sln) in visual studio (I tested it in VS2010 and VS2017)
@@ -27,7 +27,7 @@ if any, may provide a hint, try googling it)
 ! - press 'P' to pause during play and dont let the ball miss you
 
 
-##Known issues
+## Known issues
 + In VS2017 the ball flickers a lot during movement ruining the game play, I might work on it sometime!
 + The paddles can fall through the bounds and you might lose them. So keep your paddles safe!
 + The arrow attack feature has a simultaneous both player clash problem, and causes jitters, Uhhh!
